@@ -4,7 +4,7 @@ iOS developer
 -------------
 
 I am passionate about all things tech and people! 
- * 🌍  I'm based in Johannesburg
+ * 🌍  I'm based in Johannesburg, South Africa
 
 ### Skills
 
