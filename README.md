@@ -1,10 +1,29 @@
-Hi 👋 My name is Brandon 
+Brandon
 ========================
-iOS developer 
+Upper Intermediate iOS developer 
 -------------
 
-I am passionate about all things tech and people! 
- * 🌍  I'm based in Johannesburg, South Africa
+Hey there, I'm Brandon I have experience in the banking sector and am currently working in the vehicle tracking and telematics sector. I am passionate about all things tech and people.
+
+I have experience with the following tech and tools: 
+
+* Swift
+* SwiftUI
+* UIKit
+* Objc
+* CoreData
+* XCTest
+* Xcode
+* CocoaPods and Swift Package Manager (SPM)
+* Firebase (Analytics, Crashlytics, Distribution, Realtime Database, FireStore)
+* Azure Devops
+* TestFlight
+* Charles Proxy
+* Figma, Sketch
+* Jira, Trello
+
+
+* 🌍  I'm based in Johannesburg, South Africa
 
 ### Skills
 
