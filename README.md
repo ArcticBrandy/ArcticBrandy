@@ -1,6 +1,6 @@
 Brandon
 ========================
-Upper Intermediate iOS developer 
+Senior iOS developer 
 -------------
 
 Hey there, I'm Brandon I have experience in the banking sector and am currently working in the vehicle tracking and telematics sector. I am passionate about all things tech and people.
